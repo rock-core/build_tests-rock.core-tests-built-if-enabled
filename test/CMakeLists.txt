@@ -1,3 +1,1 @@
-rock_testsuite(test_suite suite.cpp
-   test_Dummy.cpp
-   DEPS rock-enable-tests)
+rock_executable(rock-core-enable-tests-successful suite.cpp)
