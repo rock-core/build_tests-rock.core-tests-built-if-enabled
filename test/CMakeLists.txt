@@ -1,1 +1,1 @@
-rock_executable(rock-core-enable-tests-successful suite.cpp)
+rock_executable(rock-core-tests-built-if-enabled suite.cpp)
